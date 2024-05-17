@@ -1,3 +1,5 @@
+// comulative sum
+
 function comulativeSum(A) {
     let S = [];
     S[0] = A[0];

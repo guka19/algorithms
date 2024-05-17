@@ -1,3 +1,5 @@
+// binary search
+
 function binarySearch(arr, x) {
     let low = 0;
     let high = arr.length-1;
